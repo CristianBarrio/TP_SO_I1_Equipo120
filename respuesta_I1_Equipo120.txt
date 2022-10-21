@@ -7,3 +7,7 @@ a-¿ALFA ve los datos que cargaron los demás en su repositorio?
 Sí, Alfa ve los datos cargados por BETA en el repositorio.
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 Si ALFA agrega un archivo, BETA lo puede visualizar correctamente.
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+Si Beta agrega un archivo, Alfa lo puede visualizar correctamente.
+d-¿De qué forma se comunicaron ustedes?
+Nos comunicamos a traves de Discord, github.
